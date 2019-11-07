@@ -13,9 +13,9 @@
 A comunidade porguesa de Monero para além da pool mantém vários nodes activos.<br><br>
 <b>Nodes:</b>
 <br>
-[MainNet] node.xmr.pt:18081 or xmkwypann4ly64gh.onion:18081 for Tor <br>
+[MainNet] node.xmr.pt:18081 or moneroptqodufzxj.onion:18081 for Tor <br>
 [MainNet] node2.xmr.pt:18081  <br>
-[Testnet] testnet.xmr.pt:28081 or fdlnlt5mr5o7lmhg.onion:28081 for Tor <br>
+[Testnet] testnet.xmr.pt:28081 or nitbdip72kdg5z6g.onion:28081 for Tor <br>
 [Stagenet] stagenet.xmr.pt:38081 or nitbdip72kdg5z6g.onion:38081 for Tor <br>
 <br>
 Explorador de <a href="https://explorer.xmr.pt">Blocos </a> <br>
