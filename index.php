@@ -54,8 +54,8 @@
 							<i class="fa fa-support"></i>
 						</div>
 						<div class="media-body">
-							<h3><?php echo $lang['SERV4_TITLE']; ?></h3>
-							<p><?php echo $lang['SERV4_DESC']; ?></p>
+							<h3></h3>
+							<p></p>
 						</div>
 					</div>
 				</div>
@@ -67,8 +67,8 @@
 							<i class="fa fa-code"></i>
 						</div>
 						<div class="media-body">
-							<h3><?php echo $lang['SERV5_TITLE']; ?></h3>
-							<p><?php echo $lang['SERV5_DESC']; ?></p>
+							<h3></h3>
+							<p></p>
 						</div>
 					</div>
 				</div>
@@ -80,8 +80,8 @@
 							<i class="fa fa-cog"></i>
 						</div>
 						<div class="media-body">
-							<h3><?php echo $lang['SERV6_TITLE']; ?></h3>
-							<p><?php echo $lang['SERV6_DESC']; ?></p>
+							<h3></h3>
+							<p></p>
 						</div>
 					</div>
 				</div>
