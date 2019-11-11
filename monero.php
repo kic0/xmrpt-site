@@ -1,8 +1,11 @@
 <html>
 <?php include("header.php");?>
+<head>
+
+</head>
 <center>	
 <div>
-<table style="width: 800px;">
+<table style="width: 800px; align="center";>
 <tbody>
 <tr>
 <td style="width: 800px;">
@@ -14,6 +17,6 @@
 </tbody>
 </table>
 </div>
-<div>&nbsp;</div>
+<br>
 </center></div>
 <?php include("footer.php");?>

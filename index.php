@@ -1,6 +1,11 @@
 <html>
 <?php include("header.php");?>
-
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 <br>
 
 <div class="Service-section">
