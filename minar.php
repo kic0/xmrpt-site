@@ -9,7 +9,9 @@
 <tr>
 <td style="width: 800px;">
 <div class="entry-content">
-<p><strong>Monero</strong> (XMR) &eacute; uma moeda focada na privacidade que atualmente est&aacute; no top 10 das criptomoedas por volume de neg&oacute;cio. A minera&ccedil;&atilde;o de Monero pode ser um empreendimento lucrativo devido ao seu algoritmo criptogr&aacute;fico que &eacute; resistente &agrave; minera&ccedil;&atilde;o da ASIC. Isso significa que qualquer pessoa com CPU ou GPU pode minar Monero.</p>
+<p><strong>Monero</strong> A minera&ccedil;&atilde;o de Monero pode ser um empreendimento lucrativo devido ao seu algoritmo criptogr&aacute;fico que &eacute; resistente &agrave; minera&ccedil;&atilde;o da ASIC. Isso significa que qualquer pessoa com CPU ou GPU pode minar Monero.</p>
+
+<iframe width="100%">https://new.xmr.pt/</iframe>
 <p>Este guia ir&aacute; mostrar-lhe quais programas de software precisa e como configurar esses programas para que possa explorar o Monero em apenas alguns minutos.</p>
 <p>Pode explorar o Monero e com diferentes qual softwares para minerar, dependendo do <em>hardware</em>:</p>
 <p><strong>Placas Gr&aacute;ficas AMD</strong></p>

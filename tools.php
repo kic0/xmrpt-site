@@ -11,7 +11,6 @@
 <ul>
 <li><a href="https://pool.xmr.pt">Pool </a> Mineração de Monero (PT).</li>
 <li><a href="https://explorer.xmr.pt">Explorador </a> de Blocos.</li>
-<li><a href="https://github.com/hattori-dev/monero-lazy-monitor">Lazy Monero</a>&nbsp;Estat&iacute;sticas Monero mining para pergui&ccedil;osos.</li>
 <li><a href="https://chrome.google.com/webstore/detail/xmrpt/eigblbgjknlfbajkfhopmcojidlgcehm">Pool PT Chrome plugin</a>&nbsp;Extens&atilde;o para o Chrome plugin ligado &agrave; pool portuguesa de Monero.</li>
 <li><a href="https://github.com/kic0/Block0">Block0</a>&nbsp;Bot de IRC do canal #monero-pt com m&oacute;dulos de NodeJs.</li>
 <li><a href="https://github.com/kic0/Monero-nodejs-pool-daemon-monitor"> Monerod Daemon&nbsp; Monitor</a>&nbsp;Monitor de estado do node ou da pool.&nbsp;&nbsp;</li>
@@ -31,7 +30,11 @@
 <li><a href="https://github.com/xmrig/xmrig-proxy">XMRig Proxy</a> Minerador proxy Monero xmrig</li>
 <li><a href="https://github.com/fireice-uk/xmr-stak/releases">XMR-stack</a> Minerador Monero xmr-stack</li>
 <li><a href="https://github.com/Snipa22/xmr-node-proxy">XMR Node Proxy</a> Monero proxy Miner</li>
+<li><a href="https://github.com/hattori-dev/monero-lazy-monitor">Lazy Monero</a>&nbsp;Estat&iacute;sticas Monero mining para pergui&ccedil;osos.</li>
 </ul>
+
+
+
 
 </div>
 </td>

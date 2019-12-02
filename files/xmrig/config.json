@@ -1,56 +1,54 @@
 {
+    "algo": "cryptonight",
     "api": {
-        "id": null,
-        "worker-id": null
-    },
-    "http": {
-        "enabled": false,
-        "host": "127.0.0.1",
         "port": 0,
         "access-token": null,
+        "id": null,
+        "worker-id": null,
+        "ipv6": false,
         "restricted": true
     },
+    "asm": true,
     "autosave": true,
-    "version": 1,
+    "av": 0,
     "background": false,
     "colors": true,
-    "randomx": {
-        "init": -1,
-        "numa": true
-    },
-    "cpu": {
-        "enabled": true,
-        "huge-pages": true,
-        "hw-aes": null,
-        "priority": null,
-        "asm": true,
-        "argon2-impl": null,
-        "cn/0": false,
-        "cn-lite/0": false
-    },
-    "donate-level": 5,
-    "donate-over-proxy": 1,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "huge-pages": true,
+    "hw-aes": null,
     "log-file": null,
+    "max-cpu-usage": 100,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
             "url": "pool.xmr.pt:3333",
             "user": "44VZ4vmpZcG5zB1jXwwr3oJZRKXmdQna9AyAc6QnqhLAKdG3jcsu9hiBJ7PqP7ibSQVBhsQLbDZPHBqJskXzoZ98Mk77qNy",
-            "pass": "x",
-            "rig-id": null,
+            "pass": "arduino",
+            "rig-id": "test1",
             "nicehash": false,
             "keepalive": false,
-            "enabled": true,
+            "variant": -1,
             "tls": false,
-            "tls-fingerprint": null,
-            "daemon": false
+            "tls-fingerprint": null
         }
     ],
     "print-time": 60,
     "retries": 5,
     "retry-pause": 5,
-    "syslog": false,
+    "safe": false,
+    "threads": [
+        {
+            "low_power_mode": 1,
+            "affine_to_cpu": false,
+            "asm": true
+        },
+        {
+            "low_power_mode": 1,
+            "affine_to_cpu": false,
+            "asm": true
+        }
+    ],
     "user-agent": null,
-    "watch": true
+    "watch": false
 }
