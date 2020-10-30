@@ -8,7 +8,6 @@
 <td style="width: 800px;">
 <div class="entry-content">
 <p><strong>Monero</strong> A minera&ccedil;&atilde;o de Monero pode ser um empreendimento lucrativo devido ao seu algoritmo criptogr&aacute;fico que &eacute; resistente &agrave; minera&ccedil;&atilde;o da ASIC. Isso significa que qualquer pessoa com CPU ou GPU pode minar Monero.</p>
-<iframe width="100%" height="150">https://new.xmr.pt/</iframe>
 <p>Este guia ir&aacute; mostrar-lhe quais programas de software precisa e como configurar esses programas para que possa explorar o Monero em apenas alguns minutos.</p>
 <p>Pode explorar o Monero e com diferentes qual softwares para minerar, dependendo do <em>hardware</em>:</p>
 <p>&nbsp;</p>
@@ -43,14 +42,14 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p>&nbsp;Se tiver restri&ccedil;&otilde;es de ip pode minar atrav&eacute;s da rede tor em: <span style="text-decoration: underline;">pool.moneroptqodufzxj.onion</span> nas portas 3333, 5555 e 7777</p>
 <p><strong>Campos opcionais</strong><br />Pode alterar o nome da esta&ccedil;&atilde;o mineradora ou a dificuldade no ficheiro de configura&ccedil;&atilde;o.</p>
 <p>Nome de esta&ccedil;&atilde;o mineradora<br /><em>(e.x. xmrig.exe -u 43T...sUW -p <strong>mina1</strong>)</em></p>
 <p>Dificuldade fixa para a esta&ccedil;&atilde;o 128000<br /><em>(e.x. xmrig.exe -u 43T...sUW<strong>+128000</strong> -p mina1)</em></p>
 </div>
 <p>Em Portugal existe uma <em>pool</em> bastante activa, com uma comunidade participativa e dispon&iacute;vel. Chama-se:</p>
 <p><a href="https://pool.xmr.pt">XMRPT</a></p>
-<p>Servidores: Portugal<br /> Mineradores: ~150<br /> Dev fee: 0.4 %<br /> Pag. m&iacute;nimo: 0.2 xmr&nbsp;</p>
+<p>Servidores: Portugal<br /> Mineradores: ~30<br /> Dev fee: 0.4 %<br /> Pag. m&iacute;nimo: 0.2 xmr&nbsp;</p>
 </div>
 </td>
 </tr>
@@ -58,6 +57,7 @@
 </table>
 </div>
 </center><center>
+
 </center>
 <div>&nbsp;</div>
 
