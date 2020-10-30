@@ -42,7 +42,7 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Se tiver restri&ccedil;&otilde;es de ip pode minar atrav&eacute;s da rede tor em: <span style="text-decoration: underline;">pool.moneroptqodufzxj.onion</span> nas portas 3333, 5555 e 7777</p>
+<p>&nbsp;Se tiver restri&ccedil;&otilde;es de ISP pode minar atrav&eacute;s da rede tor em: <span style="text-decoration: underline;">pool.moneroptqodufzxj.onion</span> nas portas 3333, 5555 e 7777</p>
 <p><strong>Campos opcionais</strong><br />Pode alterar o nome da esta&ccedil;&atilde;o mineradora ou a dificuldade no ficheiro de configura&ccedil;&atilde;o.</p>
 <p>Nome de esta&ccedil;&atilde;o mineradora<br /><em>(e.x. xmrig.exe -u 43T...sUW -p <strong>mina1</strong>)</em></p>
 <p>Dificuldade fixa para a esta&ccedil;&atilde;o 128000<br /><em>(e.x. xmrig.exe -u 43T...sUW<strong>+128000</strong> -p mina1)</em></p>
